@@ -22,7 +22,7 @@ import com.inetbanking.utilities.ReadConfig;
 
 public class BaseClass {
 	
-	//This staement is to read config filel properties in to baseclass
+	//This statement is to read config file properties in to baseclass
 
 	ReadConfig readconfig=new ReadConfig();
 	
