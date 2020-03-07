@@ -21,6 +21,8 @@ import org.testng.annotations.Parameters;
 import com.inetbanking.utilities.ReadConfig;
 
 public class BaseClass {
+	
+	//This statement is to read config file properties in to baseclass
 
 	ReadConfig readconfig=new ReadConfig();
 	
