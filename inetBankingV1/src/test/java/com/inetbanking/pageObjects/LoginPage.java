@@ -10,7 +10,7 @@ public class LoginPage {
 
 	WebDriver ldriver;
 	
-	//This method will initialize the driver to loginpage
+	
 	public LoginPage(WebDriver rdriver)
 	{
 		ldriver=rdriver;
